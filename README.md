@@ -1,5 +1,5 @@
 <p align="center">
-👋Hello!  I'm Dr. Becky Andrews<br> 
+Hello!  I'm Dr. Becky Andrews<br> 
 (😄 Pronouns: she / her)<br> <br> 
 As you can see by my tagline to the left, I am a burned out physician, learning to code, seeking a new home in the tech sector. <br> <br> 
 I am working toward "full stack" web development certification. <br>
