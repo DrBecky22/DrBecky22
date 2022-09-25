@@ -1,7 +1,7 @@
 <p align="center">
   <strong>Hello!  I'm Dr. Becky Andrews</strong><br> 
 (😄 Pronouns: she / her)<br> <br> 
-As you can see by my tagline to the left, I am a burned out physician, learning to code, seeking a new home in the tech sector. <br> <br> 
+As you can see by my tagline to the left, I am a burned out (but still practicing) physician, learning to code, seeking a new home in the tech sector. <br> <br> 
 I have been building my own websites on various WYSIWIG platforms like Wordpress, Weebly and Wix since 2009. <br>
 I am working toward "full stack" web development certification. <br>
 🌱 I’m currently learning JavaScript and it's adjacent ecosystem (Node, React, etc), as well as learning to set up a home network and server. <br>
