@@ -2,6 +2,7 @@
   <strong>Hello!  I'm Dr. Becky Andrews</strong><br> 
 (😄 Pronouns: she / her)<br> <br> 
 As you can see by my tagline to the left, I am a burned out physician, learning to code, seeking a new home in the tech sector. <br> <br> 
+I have been building my own websites on various WYSIWIG platforms like Wordpress, Weebly and Wix since 2009. <br>
 I am working toward "full stack" web development certification. <br>
 🌱 I’m currently learning JavaScript and it's adjacent ecosystem (Node, React, etc).  HTML/ CSS certification done. <br><br><br>
 As a doctor who has spent 20 years on the frontline delivering complex care, <br>and as an early adopter of EMRs and other tech "solutions" for health care, <br>I can tell you: <br><br> the IT solutions developed for doctors thus far are<br>.... horrible... <br>they make it exponentially more difficult to deliver care.  <br>Doctors and patients have both suffered due to this. <br>
