@@ -11,7 +11,7 @@ As a doctor who has spent 20 years on the frontline delivering complex care, <br
 <br>As I learn more about coding, and how coders both think and speak - I deeply believe that the main issue is communication between these 2 highly complex fields. 
 I think that administrators essentially tasked the IT community to come up with something ill-defined.  Doctors were rarely asked what they neeeded, AND when they were, because they had no basis for comparison, and because they know nothing about coding, they didn't know what parameters needed to be set (what needs to express). Coders and developers worked really hard and created phenominally complex and elegant solutions that do not actually do what they need to do.  Not because they can't, but because they were not given the necessary parameters.   
 <br>
-<br> As a physician who's practice years began in the analog / paper era and have ended with the fully digital era (and who also knows how to code), I feel uniquely qualified to help improved the tech solutions devloped for health care (especially EMRs).  
+<br> As a physician who's practice years began in the analog / paper era and are now in the fully digital era (and who also knows how to code), I feel uniquely qualified to help improved the tech solutions devloped for health care (especially EMRs).  
 <br><br>
 👯 I’m looking for opportunities to get my foot in the door at the healthcare / IT interface. ANY leads are appreciated.<br><br><br>
   <strong>OK, other things: </strong><br>
