@@ -20,7 +20,7 @@ I really enjoy buidling websites on the Wix platform, and sometimes do that just
 I am really enjoying what goes on "under the hood" of platforms like this and learning how to code pages like that from scratch.  
 <br><br><br>
 <strong>Deets</strong><br>
-private practice website:  www.doctorbecky.net  (I built this on Wix and wrote all the content myself!)<br>
+private practice website:  www.doctorbecky.net  (I built this on Wix and write all the content myself!)<br>
 Tech Resume:  https://my.visualcv.com/becky-andrews-7354817/ <br>
 Full CV:  https://my.visualcv.com/becky-andrews/ <br>
 Portfolio:  coming soon <br><br><br>
