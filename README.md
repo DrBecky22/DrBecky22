@@ -11,7 +11,7 @@ I think that administrators essentially tasked the IT community to come up with 
 <br>
 <br> As a physician who's practice years began in the analog / paper era and have ended with the fully digital era (and who also knows how to code), I feel uniquely qualified to help improved the tech solutions devloped for health care (especially EMRs).  
 <br><br>
-👯 I’m looking for opportunities to get my foot in the door at the tech / IT interface. ANY leads are appreciated.<br><br><br>
+👯 I’m looking for opportunities to get my foot in the door at the healthcare / IT interface. ANY leads are appreciated.<br><br><br>
   <strong>OK, other things: </strong><br>
 There are several health related database/ wiki type projects that I feel need to exist that I hope to start buidling soon.<br> 
 I really enjoy buidling websites on the Wix platform, and sometimes do that just for fun...<br>
